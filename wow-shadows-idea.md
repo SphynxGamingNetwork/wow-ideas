@@ -1,14 +1,87 @@
----
-title: feedback - Thorium WoW
-description: 
-published: true
-date: 2023-11-15T16:33:22.640Z
-tags: 
-editor: markdown
-dateCreated: 2021-09-13T23:11:29.200Z
----
-
 # World of Warcraft: Dark Shadows - New Systems and Features
+
+## Overview
+
+The Gear and Progression System in **World of Warcraft: Dark Shadows** is designed to provide a challenging and rewarding experience for players as they advance from Level 80 to Level 90. The system focuses on the acquisition, upgrading, and utilization of gear, with a special emphasis on a new Graded Gear System.
+
+## Progression from Level 80 to 90
+
+### Leveling Gear
+
+- **Base Gear**: Players will start with Level 80 gear, equivalent to endgame Heroic gear from Wrath of the Lich King.
+- **Gear Drops**: As players progress from Level 80 to 90, they will receive gear drops from mobs, world bosses, and quest rewards.
+- **Quest Rewards**: Quests provide gear based on the player's level, with options tailored to different stats such as Strength, Intellect, and Spirit.
+
+### Graded Gear System
+
+#### Overview
+
+The Graded Gear System allows players to upgrade their gear through various grades, enhancing their stats and capabilities. This system ensures a sense of progression and provides continuous challenges and rewards.
+
+#### Grading Tiers
+
+- **Ungraded**: Base items with no additional bonuses.
+- **Grade I**: +10% stats
+- **Grade II**: +20% stats
+- **Grade III**: +30% stats
+- **Grade IV**: +40% stats
+- **Grade V**: +50% stats
+
+#### Upgrading Gear
+
+##### Grading Process
+
+- **NPC Grading**: Players can visit a Grading NPC in the central hub/mall to upgrade their gear.
+- **On-the-Go Hammer**: Players can earn or purchase a special item that allows gear upgrades on the go.
+
+##### Grading Costs
+
+- **Currency**: Upgrades are performed using in-game gold.
+- **Cost Calculation**: Higher-level items and grades require more gold to upgrade.
+  - Example Costs:
+    - Grade I: 150 Gold
+    - Grade II: 250 Gold
+    - Grade III: 400 Gold
+    - Grade IV: 600 Gold
+    - Grade V: 850 Gold
+
+##### Obtaining Graded Items
+
+- **Loot Drops**: Gear drops from mobs and bosses have a chance to be graded.
+- **Auction House**: Players can buy and sell graded and ungraded items on the Auction House.
+- **Crafting**: The new Lootbox Artisan profession allows players to craft graded gear and sell it.
+
+### Dungeons and Raids
+
+#### Challenger Modes (Group Size)
+
+- **Challenger I**: Solo-able - Each type will have Loot based on the Group Size - Drop Ungraded
+- **Challenger II**: 2-3 players - Drop Ungraded
+- **Challenger III**: 4-5 players - Drops Grade I-
+- **Challenger IV**: 10-man dungeon - Drops Grade II+
+- **Challenger V**: 25-man dungeon - Drops Grave IV+
+
+#### Mythic Difficulties (Challenge Level)
+
+- **Regular**: Normal difficulty
+- **Mythic I**: Increased difficulty
+- **Mythic II**: Moderate difficulty
+- **Mythic III**: High difficulty
+- **Mythic IV**: Very high difficulty
+- **Mythic V**: Ultimate difficulty
+
+## Endgame Gear
+
+### Stats Progression Formula
+
+Endgame gear stats increase based on a formula that scales with the player’s level.
+
+- **Formula**: Base Stats = Base Stats + ((Required Level - Base Level (80)) * (Base Stat * 0.3))
+  - Example:
+    - Base Stats of a Level 80 item: 100 Strength.
+    - Level 90 Grade IV item: 100 + ((90-80) * (100 * 0.3)) = 100 + 300 = 130 Strength.
+
+<hr>
 
 ## Custom Profession: Lootbox Artisan
 
