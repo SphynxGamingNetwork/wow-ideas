@@ -39,11 +39,11 @@ The Graded Gear System allows players to upgrade their gear through various grad
 - **Currency**: Upgrades are performed using in-game gold.
 - **Cost Calculation**: Higher-level items and grades require more gold to upgrade.
   - Example Costs:
-    - Grade I: 150 Gold
-    - Grade II: 250 Gold
-    - Grade III: 400 Gold
-    - Grade IV: 600 Gold
-    - Grade V: 850 Gold
+    - Grade I: 150 Gold + Emblem
+    - Grade II: 250 Gold + Emblem + Materials
+    - Grade III: 400 Gold + Emblem + Materials
+    - Grade IV: 600 Gold + Emblem + Materials
+    - Grade V: 850 Gold + Emblem + Materials
 
 ##### Obtaining Graded Items
 
